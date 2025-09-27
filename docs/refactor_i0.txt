@@ -1,0 +1,3 @@
+1. Link User Stories to Features
+2. Add Dev Tasks as child items of User Stories
+3. Change the packages names as per document provided on Friday Jan 31, 2025

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/menu/category_menu.xml -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_item_all"
+        android:title="@string/all"
+        android:icon="@drawable/save"/>
+    <item
+        android:id="@+id/category_electronics"
+        android:title="@string/electronics"
+        android:icon="@drawable/electricity_icon"/>
+    <item
+        android:id="@+id/category_books"
+        android:title="@string/books"
+        android:icon="@drawable/book_icon"/>
+    <item
+        android:id="@+id/category_clothing"
+        android:title="@string/clothing"
+        android:icon="@drawable/hanger_icon"/>
+    <item
+        android:id="@+id/category_house"
+        android:title="@string/house"
+        android:icon="@drawable/house_icon"/>
+    <item
+        android:id="@+id/category_lost_and_found"
+        android:title="@string/lost_found"
+        android:icon="@drawable/lost_and_found"/>
+    <item
+        android:id="@+id/category_free"
+        android:title="@string/free"
+        android:icon="@drawable/free"/>
+    <item
+        android:id="@+id/category_notes"
+        android:title="@string/notes"
+        android:icon="@drawable/notes"/>
+</menu>
